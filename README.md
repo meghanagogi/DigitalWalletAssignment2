@@ -1,2 +1,2 @@
-DigitalWalletAssignment2
-========================
+DigitalWallet
+=============
